@@ -32,3 +32,10 @@ body {
     margin-left: 16px;
     font-weight: normal;
 }
+footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+    font-size: 1em;
+}
