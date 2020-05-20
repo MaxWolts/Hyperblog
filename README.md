@@ -8,6 +8,7 @@ Un blog increíble para paracticar lo aprendido en el[ curso de Git y Github](ht
 - Trucos muy locos del profesor
 - Las personalidades múltiples de Freddy
 - Creado por el increíble Platzi Team
+- Incluye ejemplos en Windowns, linux y mac
 
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
      
