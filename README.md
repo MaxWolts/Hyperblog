@@ -7,9 +7,6 @@ Un blog increíble para paracticar lo aprendido en el[ curso de Git y Github](ht
 - El verdadero amor por las buenas prácticas
 - Trucos muy locos del profesor
 - Las personalidades múltiples de Freddy
-- Creado por el increíble Platzi Team
-- Incluye ejemplos en Windows, Linux y Mac
-- Disponible para todas las edades
 
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
      
